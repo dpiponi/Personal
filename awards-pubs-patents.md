@@ -5,6 +5,20 @@ Awards
 * 2014 Academy Scientific and Technical Achievement Award (with O Maury and I Sachs) for the creation of the ILM Plume system that simulates and renders fire, smoke and explosions for motion picture visual effects.
 * 2015 Academy Scientific and Technical Achievement Award (with G Borshukov and K Libreri) for their pioneering work in the development of Universal Capture at ESC Entertainment
 
+Movie Credits
+=============
+* Star Trek (2009)
+* Evan Almighty 
+* Harry Potter and the Goblet of Fire
+* Catwoman
+* The Matrix Revolutions
+* The Matrix Reloaded
+* Michael Jordan to the Max
+* The Matrix
+* Bless the Child
+* Mission: Impossible II
+* What Dreams May Come
+* Event Horizon
 
 Publications
 ============
