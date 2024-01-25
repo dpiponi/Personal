@@ -49,4 +49,4 @@ Patents
 * US8400461B1 Polygon kernels for image processing
 * US11737673B1 Systems for detecting carious lesions in teeth using short-wave infrared light
 * US6990230B2 Reverse-rendering method for digital modeling
-US20040169656A1 Method for motion simulation of an articulated figure using animation input
+* US20040169656A1 Method for motion simulation of an articulated figure using animation input
